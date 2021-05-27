@@ -8,10 +8,9 @@
 
 ## Состав комплекса
 
-Планируется следующий состав комплекса:
+В состав комплекса входят следующие части:
 
 * SDK, содержащий средства для работы с API Deezer - [репозиторий](https://github.com/pamugk/deezer-sdk-kotlin),
 * настольное клиентское приложение Deezer для JVM - [репозиторий](https://github.com/pamugk/deezer-desktop-kotlin-jvm),
-* Android-клиент Deezer (маловероятно),
-* клиентское приложение Deezer на React (с использованием [Kotlin.JS](https://kotlinlang.org/docs/js-overview.html "Kotlin JavaScript")),
+* web-клиент Deezer на React - [репозиторий](https://github.com/pamugk/deezer-web-kotlin-js),
 * нативное клиентское приложение Deezer (инструмент пока что TBD)
