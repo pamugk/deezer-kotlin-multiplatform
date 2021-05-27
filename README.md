@@ -13,4 +13,4 @@
 * SDK, содержащий средства для работы с API Deezer - [репозиторий](https://github.com/pamugk/deezer-sdk-kotlin),
 * настольное клиентское приложение Deezer для JVM - [репозиторий](https://github.com/pamugk/deezer-desktop-kotlin-jvm),
 * web-клиент Deezer на React - [репозиторий](https://github.com/pamugk/deezer-web-kotlin-js),
-* нативное клиентское приложение Deezer (инструмент пока что TBD)
+* нативное настольное клиентское приложение Deezer - [репозиторий](https://github.com/pamugk/deezer-desktop-kotlin-native).
