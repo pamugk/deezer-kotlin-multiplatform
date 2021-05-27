@@ -1,10 +1,12 @@
-[submodule "deezer-sdk-kotlin"]
-	path = deezer-sdk-kotlin
-	url = https://github.com/pamugk/deezer-sdk-kotlin
 [submodule "deezer-desktop-kotlin-jvm"]
 	path = deezer-desktop-kotlin-jvm
 	url = https://github.com/pamugk/deezer-desktop-kotlin-jvm.git
+[submodule "deezer-desktop-kotlin-native"]
+	path = deezer-desktop-kotlin-native
+	url = https://github.com/pamugk/deezer-desktop-kotlin-native.git
+[submodule "deezer-sdk-kotlin"]
+	path = deezer-sdk-kotlin
+	url = https://github.com/pamugk/deezer-sdk-kotlin
 [submodule "deezer-web-kotlin-js"]
 	path = deezer-web-kotlin-js
 	url = https://github.com/pamugk/deezer-web-kotlin-js.git
-	
