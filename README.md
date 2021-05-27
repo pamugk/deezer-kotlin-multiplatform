@@ -11,7 +11,7 @@
 Планируется следующий состав комплекса:
 
 * SDK, содержащий средства для работы с API Deezer - [репозиторий](https://github.com/pamugk/deezer-sdk-kotlin),
-* настольное клиентское приложение Deezer для JVM (с использованием [TornadoFX](https://tornadofx.io/ "Ссылка на сайт TornadoFX") либо [Compose for Desktop](https://www.jetbrains.com/lp/compose/ "Подсайт Compose for Desktop"), TBD),
+* настольное клиентское приложение Deezer для JVM - [репозиторий](https://github.com/pamugk/deezer-desktop-kotlin-jvm),
 * Android-клиент Deezer (маловероятно),
 * клиентское приложение Deezer на React (с использованием [Kotlin.JS](https://kotlinlang.org/docs/js-overview.html "Kotlin JavaScript")),
 * нативное клиентское приложение Deezer (инструмент пока что TBD)
