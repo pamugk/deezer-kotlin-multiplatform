@@ -4,3 +4,7 @@
 [submodule "deezer-desktop-kotlin-jvm"]
 	path = deezer-desktop-kotlin-jvm
 	url = https://github.com/pamugk/deezer-desktop-kotlin-jvm.git
+[submodule "deezer-web-kotlin-js"]
+	path = deezer-web-kotlin-js
+	url = https://github.com/pamugk/deezer-web-kotlin-js.git
+	
